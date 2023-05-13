@@ -1,1 +1,1 @@
-"Its a deployment file"
+"Its a deployment file for configuration"
